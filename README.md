@@ -24,9 +24,3 @@ config: The main configuration file for i3wm. This file includes settings for th
 i3blocks.conf: The configuration file for i3blocks, a status bar for i3wm. This file includes settings for the appearance and behavior of the status bar, as well as the modules that are displayed in the bar.
 compton.conf: The configuration file for Compton, a compositor for Xorg. This file includes settings for transparency and other visual effects.
 scripts/: A directory containing various scripts that I use with my i3wm setup. These scripts include utilities for managing windows, changing the wallpaper, and more.
-
-## License
-This i3wm configuration is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-This configuration was inspired by the work of many other i3wm users and contributors. Special thanks to the i3wm development team and the developers of the various utilities and scripts that I use with my i3wm setup.
